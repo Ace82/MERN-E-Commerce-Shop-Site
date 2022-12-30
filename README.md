@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# MERN Ecommerce Project
 
 ## Description
 
